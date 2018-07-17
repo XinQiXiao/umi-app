@@ -1,0 +1,19 @@
+{
+  "name": "umi-app",
+  "version": "1.0.0",
+  "description": "A demo learn and exercise umijs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/XinQiXiao/umi-app.git"
+  },
+  "author": "Xin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/XinQiXiao/umi-app/issues"
+  },
+  "homepage": "https://github.com/XinQiXiao/umi-app#readme"
+}
