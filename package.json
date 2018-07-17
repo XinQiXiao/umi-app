@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/XinQiXiao/umi-app/issues"
   },
-  "homepage": "https://github.com/XinQiXiao/umi-app#readme"
+  "homepage": "https://github.com/XinQiXiao/umi-app#readme",
+  "dependencies": {
+    "umi-plugin-dva": "^0.9.1"
+  }
 }
